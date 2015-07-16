@@ -8,8 +8,12 @@
 
 ##File locations
 - Fastq files
-- TGEN
-   - /projects/clinomics/
+   - TGEN
+      - /projects/clinomics/
+- Run Folders
+   - TGEN
+      - /projects/HiSeq_result
+      - /projects/NextSeq_result
 - Excel file containing sample information
    - TGEN
       - NEED THIS LOCATION

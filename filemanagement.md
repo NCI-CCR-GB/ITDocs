@@ -8,8 +8,8 @@
 
 ##File locations
 - Fastq files
-   - TGEN
-      - /projects/clinomics/
+   - TGEN: path to fastq follows pattern like this
+      - /projects/pipeline/Clinomics/150713_NS500391_0023_AHGCG3BGXX/Project_Clinomics_Exome/SAMPLENAME/*fastq.gz
 - Run Folders
    - TGEN
       - /projects/HiSeq_result

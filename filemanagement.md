@@ -15,7 +15,7 @@
 *Demultiplexed* FASTQ files are in stored on the TGEN server. Paths conform to a pattern like this:
 
 ```
-/projects/pipeline/Clinomics/150713_NS500391_0023_AHGCG3BGXX/Project_Clinomics_Exome/SAMPLENAME/*fastq.gz
+/projects/pipeline/Clinomics/RUN_DIRECTORY_NAME/Project_Clinomics_Exome/SAMPLENAME/*fastq.gz
 ```
 #### Run folders
 

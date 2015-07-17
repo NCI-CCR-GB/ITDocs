@@ -33,5 +33,5 @@ We have 33 Nodes:
 |tgcompute29  | 16|     16   |  47GB   |
 |tgcompute30  | 16|     16   |  47GB   |
 |tgcompute31  | 16|     16   |  47GB   |
-|tgcompute32  | 16|     32   |  47GB   |
+|tgcompute32  | 16|     *32*   |  47GB   |
 |tghighmem-01 | 32|     32   |  1514GB |

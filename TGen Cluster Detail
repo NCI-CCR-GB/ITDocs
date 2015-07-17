@@ -1,5 +1,5 @@
 We have 33 Nodes:
-Node	np	ncpus	Memory
+Node	  np	ncpus	Memory
 tgcompute01	16	16	47GB
 tgcompute02	16	16	47GB
 tgcompute03	16	16	47GB

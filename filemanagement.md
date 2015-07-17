@@ -34,4 +34,5 @@ The run folders contain the raw data (bcl files).  They are stored on the TGEN s
 
 - Processed data (BAM, VCF, etc)
    - TGEN
-      - NEED THIS LOCATION
+      - `/projects/clinomics/ `
+      - I created this for running the pipeline and hence the bam/vcf/etc locations should be same as `/data/Clinomics/Analysis/` on biowulf.
